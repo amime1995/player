@@ -165,7 +165,7 @@
  }
  #hls-video_fluid_initial_play_button:before {
      font-family: tahoma;
-     content: '';
+     content: '-';
      font-weight: bold;
      font-size: 12px!important;
      top: 25px;
